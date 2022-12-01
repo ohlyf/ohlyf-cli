@@ -1,0 +1,22 @@
+{
+  "name": "@lyf/cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "bin/cli.js",
+  "bin": {
+    "lyf": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^9.1.4",
+    "ora": "^6.1.2"
+  }
+}
