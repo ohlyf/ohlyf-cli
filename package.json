@@ -1,5 +1,5 @@
 {
-  "name": "@lyf/cli",
+  "name": "ohlyf-cli",
   "version": "1.0.0",
   "description": "",
   "type": "module",
